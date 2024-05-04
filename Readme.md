@@ -1,18 +1,8 @@
-Nashville Housing Prediction
-
-Pratik Amol Halurkar
-
-Module 4 assignment
-
-ALY6020: Predictive Analytics (CRN: 20356)
-
-Prof. Justin Grosz
-
-3/17/2024
+# Nashville Housing Prediction using multiple benchmarking
 
 # Introduction
 
-In this assignment, we will analyze a housing sales dataset to assist
+In this project, we will analyze a housing sales dataset to assist
 our company in gaining insights into the Nashville area, as the company
 is planning a significant investment in the region. Our task is to help
 the company understand the factors influencing sales prices compared to
